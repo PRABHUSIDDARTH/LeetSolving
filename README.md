@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0071-simplify-path) |
+| [1768-merge-strings-alternately](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0148-sort-list) |
+| [1768-merge-strings-alternately](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
