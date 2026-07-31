@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0001-two-sum) |
+| [0605-can-place-flowers](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0605-can-place-flowers) |
 ## Linked List
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0071-simplify-path) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
