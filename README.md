@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
