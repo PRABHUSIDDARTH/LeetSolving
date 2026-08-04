@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0001-two-sum) |
 | [0605-can-place-flowers](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0605-can-place-flowers) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0148-sort-list) |
+| [3731-find-missing-elements](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
 | ------- |
