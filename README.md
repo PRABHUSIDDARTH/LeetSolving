@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0001-two-sum) |
+| [0566-reshape-the-matrix](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0605-can-place-flowers) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
