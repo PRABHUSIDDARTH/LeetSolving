@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0023-merge-k-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0148-sort-list) |
 | [1768-merge-strings-alternately](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
