@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0295-find-median-from-data-stream) |
 | [1768-merge-strings-alternately](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0295-find-median-from-data-stream) |
 | [3731-find-missing-elements](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/3731-find-missing-elements) |
 ## Merge Sort
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0295-find-median-from-data-stream) |
 ## Math
 |  |
 | ------- |
@@ -108,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
