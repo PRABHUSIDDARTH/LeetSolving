@@ -69,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0062-unique-paths) |
+| [0509-fibonacci-number](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0062-unique-paths) |
+| [0509-fibonacci-number](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -119,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0295-find-median-from-data-stream) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
