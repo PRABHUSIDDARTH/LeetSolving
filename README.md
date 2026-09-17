@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0198-house-robber) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0015-3sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0148-sort-list) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0295-find-median-from-data-stream) |
 | [3731-find-missing-elements](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/3731-find-missing-elements) |
