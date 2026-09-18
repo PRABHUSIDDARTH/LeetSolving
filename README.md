@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0746-min-cost-climbing-stairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/3731-find-missing-elements) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
