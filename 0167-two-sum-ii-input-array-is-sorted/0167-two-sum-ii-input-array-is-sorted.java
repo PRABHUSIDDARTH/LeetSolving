@@ -3,7 +3,7 @@ class Solution {
         /*the key for this is the clue that they have give the input array is sorted so we need to to optimise with an search technique.
 
         we can use the previous two sum solution of an hash map but still it makes the space as O(n) coz hashmap at the worst can have the complete array.
-        so to optimise it we use an search technique: sorted Array -> binary search*/
+        so to optimise it we use an two pointer technique*/
 
         int left=0;
         int right=nums.length-1;
