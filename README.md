@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0566-reshape-the-matrix) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0295-find-median-from-data-stream) |
 | [3731-find-missing-elements](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/3731-find-missing-elements) |
 ## Merge Sort
