@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0242-valid-anagram) |
 | [1768-merge-strings-alternately](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/0295-find-median-from-data-stream) |
 | [3731-find-missing-elements](https://github.com/PRABHUSIDDARTH/LeetSolving/tree/master/3731-find-missing-elements) |
 ## Merge Sort
